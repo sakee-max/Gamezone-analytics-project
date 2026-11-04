@@ -7,9 +7,11 @@ Since they are strategising their inventory prioritisation decisions for the fol
 **In 2019, they launched a new set of marketing campaign categories** spanning topics like wellness tips, the affordability of their plans, and preventative care. 
 
 ## Dataset Structure
-The dataset contains one table, that includes information about product categories, marketing channels, regions, and customer demographics.
+The dataset contains one table that includes information about product categories, marketing channels, regions, and customer demographics.
 
-<img width="1587" height="1801" alt="ID" src="https://github.com/user-attachments/assets/c0d29434-42ee-4638-b9cd-cccaaff411a1" />
+<img width="864" height="1222" alt="Gemini_Generated_Image_jbvogvjbvogvjbvo" src="https://github.com/user-attachments/assets/6e2f6f3c-fe94-4f3c-b8a6-20e6f0c58b08" />
+
+
 
 ## Insights Summary
 #### To investigate gaming products, we focused on the following key metrics:
@@ -28,7 +30,7 @@ The dataset contains one table, that includes information about product categori
 
 - Across best-performing products by AOV, Sony PS5 and Lenovo Ideapad had the highest AOV, at nearly 5.8x and 3.9x the average, respectively.
 - This high AOV is due to the NA and EMEA regions, which had by far the highest AOV across all product types (48.04%).
-- Across all products, the LATAM region had the lowest AOV and also the lowest sales. Razor Pro Gaming Headset had zero sales, yet it had an AOV of $524 across regions- this needs investigation and could be due to missing data.
+- Across all products, the LATAM region had the lowest AOV and also the lowest sales. Razor Pro Gaming Headset had zero sales, yet it had an AOV of $524 across regions; this needs investigation and could be due to missing data.
 
 #### Orders
 - Across products, Nintendo Switch had by far the highest number of orders (10,368), as well as the second-highest number of sales ($1,656k).
