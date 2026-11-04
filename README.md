@@ -47,5 +47,5 @@ The dataset contains one table that includes information about product categorie
 
 
 
-<img width="560" height="314" alt="Screenshot 2026-11-03 142447" src="https://github.com/user-attachments/assets/d6a6e3f9-d7b6-4000-87fc-394f584b04c9" />
+
 
