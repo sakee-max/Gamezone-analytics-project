@@ -45,7 +45,7 @@ The dataset contains one table that includes information about product categorie
 - Additionally, address the LATAM data gap, which consistently shows the lowest AOV and sales across all products.
 
 ## Dashboard
-The dashboard can be found on Tableau Public **here (https://public.tableau.com/app/profile/ithen.yayo/viz/Book3_17936504736960/Dashboard1?publish=yes)**. This dashboard enables users to filter by marketing channel, product name, purchase timestamp, and region, and focuses on trends and values in sales metrics, AOV metrics, and Orders.
+The dashboard can be found on Tableau Public **[here](https://public.tableau.com/app/profile/ithen.yayo/viz/Book3_17936504736960/Dashboard1?publish=yes)**. This dashboard enables users to filter by marketing channel, product name, purchase timestamp, and region, and focuses on trends and values in sales metrics, AOV metrics, and Orders.
 
 <img width="956" height="513" alt="image" src="https://github.com/user-attachments/assets/a9b40010-ad03-43d2-a529-10b203d413c6" />
 
